@@ -14,17 +14,7 @@ body{
     color: black;
     border-radius: 25px;
 }
-.bonana{
-    width: 1150px;
-    background: rgba(255, 255, 255, 0.004);
-    padding: 40px;
-    text-align: right;
-    margin: right;
-    margin-top: 5%;
-    color: black;
-    border-radius: 25px;
-    
-}
+
 
 .bio{
     text-align: center;
