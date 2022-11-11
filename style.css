@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/bg.jpg) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 250px;
+    background: rgba(255, 255, 255, 0.54);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: black;
+    border-radius: 25px;
+}
+.bonana{
+    width: 1150px;
+    background: rgba(255, 255, 255, 0.004);
+    padding: 40px;
+    text-align: right;
+    margin: right;
+    margin-top: 5%;
+    color: black;
+    border-radius: 25px;
+    
+}
+
+.bio{
+    text-align: center;
+}
+.jjav{
+    text-align: center;
+}
+
+
+
+
+.about{
+    width: 750px;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.84);
+    padding: 40px;
+    margin-top: auto;
+    margin: auto;
+    border-radius: 25px;
+    height: 500px;
+    
+}
+.jav{
+    width: 750px;
+    padding: 40px;
+    background: rgba(255, 255, 255, 0.84);
+    padding: 40px;
+    margin-top: auto;
+    margin: auto;
+    border-radius: 25px;
+    height: 500px;
+    
+}
+
+.president{
+    width: 750px;
+    padding: 40px;
+    padding: 40px;
+    margin-top: 5%;
+    margin: auto;
+    border-radius: 25px;
+    height: 500px;
+    background-image: url(images/flag3.gif);
+    background-size: cover;
+    color: black;
+}
+
+
+
+.e{
+    color: blueviolet;
+    text-align: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.air{
+    height: 100px;
+}
