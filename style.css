@@ -79,7 +79,8 @@ body{
     width: 1100px;
     height: 300px;
     margin: auto;
-    image-rendering: auto;
+    margin-top: auto;
+
 }
 .alot img {
     border-radius: 25px;
